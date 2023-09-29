@@ -5,5 +5,5 @@ node_modules/
 dist/
 
 # Incluir las subcarpetas y sus node_modules en la lista de exclusión
-/backend-rocketfy/node_modules/
-/frontend-rocketfy/node_modules/
+!/backend-rocketfy/node_modules/
+!/frontend-rocketfy/node_modules/
