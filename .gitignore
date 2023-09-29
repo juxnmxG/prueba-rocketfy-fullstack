@@ -1,0 +1,9 @@
+# Ignorar node_modules en la carpeta raíz
+node_modules/
+
+# Ignorar archivos de compilación
+dist/
+
+# Incluir las subcarpetas y sus node_modules en la lista de exclusión
+/backend-rocketfy/node_modules/
+/frontend-rocketfy/node_modules/
